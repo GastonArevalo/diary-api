@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "date": "2024-01-09",
+      "weather": "Sunny",
+      "visibility": "Clear",
+      "comment": "A beautiful day with clear skies."
+    },
+    {
+      "id": 2,
+      "date": "2024-01-10",
+      "weather": "Cloudy",
+      "visibility": "Moderate",
+      "comment": "Partly cloudy weather, with moderate visibility."
+    },
+    {
+      "id": 3,
+      "date": "2024-01-11",
+      "weather": "Rainy",
+      "visibility": "Limited",
+      "comment": "Rainy day with limited visibility. Take precautions while driving."
+    }
+  ]
+  
